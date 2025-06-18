@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://kinghowler.github.io/assets/img/oscilloscope-online/icon.png" width="30%">
+  <img src="https://m-umar.me/assets/img/Projects/OO/OO-480.webp" width="30%">
   
   # Oscilloscope-Online
 </div>
+
+## TRY THE NEWER VERSION [OSCILLOSCOPE ONLINE V2](https://mumarshahbaz.github.io/Oscilloscope-Online-V2/)
 
 ## Purpose
 To create a tool that can show live data from experimentations with a wide variety of customizable options. The project is useful for assisting in research works.
@@ -25,7 +27,7 @@ The plotter gives you many customization options which includes the following:
 
 The website also provides a link to the code for the website as well as a link telling how to use the oscilloscope locally which offers even more customizable options.
 
-You can find the Oscilloscope [here](https://kinghowler.github.io/Oscilloscope-Online/)
+You can find the Oscilloscope [here](https://mumarshahbaz.github.io/Oscilloscope-Online/)
 
 ## Upcoming updates
 - .csv Export
